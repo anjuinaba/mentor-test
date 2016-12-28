@@ -13,7 +13,6 @@
    - email :varchar(メールアドレス)
    - group_id (所属グループ)
  * chat_gruop(グループ)モデル
-   - type :string
    - group_id :integer
    - relative_id :integer
    - user_id :integer
